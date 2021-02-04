@@ -1,7 +1,3 @@
 ## 💻 Repositório
 
-Repositório criado para estudos das trilhas do curso Discover da Rocketseat.
-
----
-
-Por Felipe Brenner
+Repositório criado para estudos das trilhas do curso [Discover](https://app.rocketseat.com.br/discover) da Rocketseat

@@ -2,7 +2,7 @@
 
 Repositório criado para estudos das trilhas do curso [Discover](https://app.rocketseat.com.br/discover) da Rocketseat
 
-[ ] [Guias estelares](https://github.com/FelipeBrenner/discover/tree/main/guias-estelares)
+- [ ] [Guias estelares](https://github.com/FelipeBrenner/discover/tree/main/guias-estelares)
     - [x] [O guia estelar de HTML](https://github.com/FelipeBrenner/discover/tree/main/guias-estelares/o-guia-estelar-de-css)
     - [x] [O guia estelar de CSS](https://github.com/FelipeBrenner/discover/tree/main/guias-estelares/o-guia-estelar-de-html)
     - [ ] O guia estelar de Git
@@ -10,7 +10,7 @@ Repositório criado para estudos das trilhas do curso [Discover](https://app.roc
     - [x] Guia estelar de programação
     - [ ] Guia estelar de HTTP
     - [ ] Guia estelar de Github
-[ ] Preparação de astronautas
+- [ ] Preparação de astronautas
     - [ ] Formulários de outro planeta
     - [ ] HTML que faz sentido, para todos
     - [ ] Posso ver e ouvir o HTML

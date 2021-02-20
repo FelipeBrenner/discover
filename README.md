@@ -20,4 +20,4 @@ Repositório criado para estudos das trilhas do curso [Discover](https://app.roc
     - [ ] Uma caixa dentro da outra
     - [ ] App bonito, até nos textos
 
-> Trilhas concluídas sem pasta criada no repositório é devido a não achar necessário anotação nem prática nenhuma
+> Trilhas concluídas sem pasta criada no repositório é devido a não ter sido necessário anotação nem prática nenhuma

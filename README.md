@@ -14,7 +14,7 @@ Repositório criado para estudos das trilhas do curso [Discover](https://app.roc
     - [x] [Formulários de outro planeta](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/1-formularios-de-outro-planeta)
     - [x] [HTML que faz sentido, para todos](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/2-html-que-faz-sentido-para-todos)
     - [x] [Posso ver e ouvir o HTML](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/3-posso-ver-e-ouvir-o-html)
-    - [ ] Pilotando com a DOM
+    - [x] [Pilotando com a DOM](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/4-pilotando-com-a-dom)
     - [ ] Nem tudo são pixels
     - [ ] Nem só de classes ou ID's
     - [ ] Uma caixa dentro da outra

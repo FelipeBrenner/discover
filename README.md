@@ -23,7 +23,8 @@ Repositório criado para estudos das trilhas do curso [Discover](https://app.roc
     - [x] [Nem tudo são pixels](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/5-nem-tudo-sao-pixels)
     - [x] [Nem só de classes ou ID's](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/6-nem-so-de-classes-ou-ids)
         >```Element selector, ID Selector, Class Selector, Attribute selector, Pseudo-class selector, Descendant combinator, Child combinator >, Adjacent sibling combinator +, General sibling combinator ~, :first-child, :nth-of-type(), :nth-child(), :hover, :focus, :disabled, :required, ::before, ::after, ::first-line```
-    - [ ] [Uma caixa dentro da outra](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/7-uma-caixa-dentro-da-outra)
-    - [ ] App bonito, até nos textos
+    - [x] [Uma caixa dentro da outra](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/7-uma-caixa-dentro-da-outra)
+        >````box-sizing: border-box, display: block, display: inline, margin, padding, border, outline```
+    - [ ] [App bonito, até nos textos](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/7-uma-caixa-dentro-da-outra)
 
 > Trilhas concluídas sem pasta criada no repositório é devido a não ter sido necessário anotação nem prática nenhuma

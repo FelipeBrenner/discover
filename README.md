@@ -11,7 +11,7 @@ Repositório criado para estudos das trilhas do curso [Discover](https://app.roc
     - [x] Guia estelar de programação
     - [ ] Guia estelar de HTTP
     - [ ] Guia estelar de Github
-- [ ] [Preparação de astronautas](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/)
+- [x] [Preparação de astronautas](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/)
     - [x] [Formulários de outro planeta](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/1-formularios-de-outro-planeta)
         >```<form>, <fieldset>, <legend>, <label>, <button>, <datalist>, <option>, <input type="password">, <input type="email"/>, <input type="url"/>, <input type="file"/>, <input type="color"/>, <input type-"checkbox">, <input type="hidden">, <input type="radio">, <input type="search"/>, <input type="number"/>, <input type="range"/>, <input type="date">, <input type="datetime-local">, <input type="month">, <input type="time">, <input type="week"><textarea>, <select>, <optgroup>```
     - [x] [HTML que faz sentido, para todos](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/2-html-que-faz-sentido-para-todos)
@@ -24,7 +24,8 @@ Repositório criado para estudos das trilhas do curso [Discover](https://app.roc
     - [x] [Nem só de classes ou ID's](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/6-nem-so-de-classes-ou-ids)
         >```Element selector, ID Selector, Class Selector, Attribute selector, Pseudo-class selector, Descendant combinator, Child combinator >, Adjacent sibling combinator +, General sibling combinator ~, :first-child, :nth-of-type(), :nth-child(), :hover, :focus, :disabled, :required, ::before, ::after, ::first-line```
     - [x] [Uma caixa dentro da outra](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/7-uma-caixa-dentro-da-outra)
-        >````box-sizing: border-box, display: block, display: inline, margin, padding, border, outline```
-    - [ ] [App bonito, até nos textos](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/7-uma-caixa-dentro-da-outra)
+        >```box-sizing: border-box, display: block, display: inline, margin, padding, border, outline```
+    - [x] [App bonito, até nos textos](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/7-uma-caixa-dentro-da-outra)
+        >```font-family, font-weight, font-style, font-size, font-variant, font-stretch, letter-spacing, word-spacing, line-height, text-transform, text-decoration, text-align, text-shadow, shorthand```
 
 > Trilhas concluídas sem pasta criada no repositório é devido a não ter sido necessário anotação nem prática nenhuma

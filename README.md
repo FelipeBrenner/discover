@@ -27,7 +27,8 @@ Repositório criado para estudos das trilhas do curso [Discover](https://app.roc
         >```box-sizing: border-box, display: block, display: inline, margin, padding, border, outline```
     - [x] [App bonito, até nos textos](https://github.com/FelipeBrenner/discover/tree/main/preparacao-de-astronautas/7-uma-caixa-dentro-da-outra)
         >```font-family, font-weight, font-style, font-size, font-variant, font-stretch, letter-spacing, word-spacing, line-height, text-transform, text-decoration, text-align, text-shadow, shorthand```
-- [ ] [Viajando ao espaço](https://github.com/FelipeBrenner/discover/tree/main/viajando-ao-espaco/)
-    - [ ] [NodeJS: O motor da nave](https://github.com/FelipeBrenner/discover/tree/main/viajando-ao-espaco/1-nodejs-o-motor-da-nave)
+- [x] [Viajando ao espaço](https://github.com/FelipeBrenner/discover/tree/main/viajando-ao-espaco/)
+    - [x] [NodeJS: O motor da nave](https://github.com/FelipeBrenner/discover/tree/main/viajando-ao-espaco/1-nodejs-o-motor-da-nave)
+        > ```module.exports, require(), global, require('path'), __dirname, __filename, process.argv, npm, package.json, node_modules, process.stdout, process.stdin, process.on, setTimeout(), clearTimeout(), setInterval(), clearInterval(), require('events'), EventEmitter.on, EventEmitter.emit, inherits()```
 
 > Trilhas concluídas sem pasta criada no repositório é devido a não ter sido necessário anotação nem prática nenhuma

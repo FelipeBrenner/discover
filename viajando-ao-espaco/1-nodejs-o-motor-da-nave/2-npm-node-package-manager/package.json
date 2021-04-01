@@ -1,0 +1,19 @@
+{
+  "name": "2-npm-node-package-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Felipe Brenner",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.9.1"
+  },
+  "devDependencies": {
+    "inquirer": "^8.0.0",
+    "opn": "^6.0.0"
+  }
+}
